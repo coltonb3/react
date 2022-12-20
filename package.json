@@ -3,9 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "-": "^0.0.1",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "g": "^2.0.1",
+    "netlify-cli": "^12.4.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.7.1",
@@ -38,4 +41,5 @@
       "last 1 safari version"
     ]
   }
+  "package-name": ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDAkSxVfDCm3WPQ7vNvRzbr49Mei/yEoJf2hBFDDj+qUiAvwdE3G9KeOkB/JcxXUSJucyaX/yxD4Ld+zO0cglmOFh6uz0Y3AHyA4VmEPf34fnltCDXOPrwuQ3hpvRch1kk6dZZJ6siH4KX4rW1S95E5jzHtuRLAO36q/XCRdo/tgl5qGXvCmKwvw/Azc0lA7vjsLrFB/VK7fIfUTfB1LLCKsg1tlb0ZJnHWapVXsvF5BxJbEpfQKMw0snaslVwRO5yn551iQkVupA98S3XseY5jAVvCuzvxkox8peLDTLUD80p1YWA5meXZjq1SveZ2kb0HbGh/v2utw0wBTvOYRdHuZk8F4uSsXKZ5nnw7qJDp1v4APq9miQRwAznDtn4zYtGAk0atmA9EOmJ3fnqM0pBc75VNb+6wOVk6sVfhAuurBYLrQjRdp9gTJGbtK/JSJItGSGIR3Rw/zhWfpNxxpkepIQZnWXn0hxgGa4cvxlVmCdKlbHijU/+YfztnNgnbb6VQ5yp0cWemqpRg0SQwUkLnfaIBMtICOkOFiAn3p6kdOx0I0JiLPAe+dW54HOzxwZ1PC5QwrQ7BnDpBSWanH5ii8UAf1QBpJNMdEIIzqUW49gBH19KbIka6+yN76U3wSx6yjG0RR5kZbbdXPYHP3dQDWRjMWusuYv/i9EkNmaEfxw==
 }
