@@ -6,6 +6,10 @@
     justify-content: center;
     gap: 1rem;
 }
+h4{
+  display: flex;
+  justify-content: center;
+}
 
 i{
   font-size: 75px;
