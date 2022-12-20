@@ -1,5 +1,6 @@
 import React from 'react'
 import './experience.css'
+import {recipe} from '../../assets/recipe.png'
 const experience = () => {
   return (
    <section id='experience'>
@@ -17,7 +18,16 @@ const experience = () => {
     </div>
 
   <div class="projects-container">
-    
+<article>
+      <small>project1</small>
+      <img src='../../assets/recipe.png' alt='recipe'/>
+    </article>
+<article>
+        <small>project2</small>
+    </article>
+<article>
+        <small>project3</small>
+    </article>  
 
 
   </div>

@@ -43,3 +43,34 @@ i{
 .devicon-python-plain:hover{
   color: yellow;
 }
+.projects-container article{
+  background: var(--color-bg-variant);
+  border: 1px solid transparent;
+  border-radius: 1rem;
+  padding: 2rem;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  transition: var(--transition);
+  box-shadow: 1px 2px 9px;
+  height: 20rem;
+  width: 20rem;
+
+}
+
+.projects-container{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-top: 3rem;
+  gap: 1rem;
+}
+
+article:hover{
+  background: white;
+  opacity: 0.5;
+  color: var(--color-bg);
+  border-color: transparent;
+}
