@@ -1,0 +1,41 @@
+.icons{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+i{
+  font-size: 75px;
+  box-shadow: 1px 2px 9px;
+
+}
+
+
+.devicon-html5-plain:hover{
+  color: red;
+}
+
+.devicon-css3-plain:hover{
+  color: blue;
+}
+.devicon-bootstrap-plain:hover{
+    color: purple;
+  }
+.devicon-mongodb-plain:hover{
+  color: green;
+ } 
+.devicon-react-original:hover{
+    color: blue;
+}
+.devicon-javascript-plain:hover{
+  color:yellow;
+}
+.devicon-nodejs-plain:hover{
+    color: green;
+}
+.devicon-python-plain:hover{
+  color: yellow;
+}

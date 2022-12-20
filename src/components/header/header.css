@@ -13,10 +13,16 @@ h1, h5{
     height: 100%;
     position: relative;
     display: flex;
+    padding-bottom: 5rem;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 8rem;
+    margin-left: .7rem;
 }
 
 .cta{
-    margin-top: 2.5rem;
+    margin-top: -4.5rem;
+    margin-bottom: 2rem;
     display: flex;
     gap: 1rem;
     justify-content: center;
@@ -42,13 +48,12 @@ h1, h5{
 
 
 .me{
-    background: linear-gradient(var(--color-primary), transparent);
     width: 22rem;
-    height: 30rem;
+    height: 32rem;
     position: absolute;
     left: 50%;
     transform: translate(-50%);
-    margin-top: 4rem;
+    margin-top: 9rem;
     border-radius: 4rem;
     overflow: hidden;
     padding: 5rem 1.5rem 1.5rem 1.5rem;
@@ -68,11 +73,17 @@ h1, h5{
     header {
       height: 100vh;
       width: var(--container-width-sm);
+        width: 65%;
+        margin: 0 auto 3rem;
     }
       .header__socials, .scroll__down{
         display: none;
 
       }
+      .cta{
+        margin-top: -5rem;
+      }
+
     }  
   
     section{
@@ -83,9 +94,14 @@ h1, h5{
     header {
       height: 68vh;
       width: var(--container-width-md);
+      margin: 2rem auto 4rem;
     }
   
     section{
       margin-top: 6rem;
     }
   }
+
+.header__socials a {
+  font-size: larger;
+}

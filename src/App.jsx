@@ -4,39 +4,26 @@ import Nav from './components/nav/nav'
 import About from './components/about/About'
 import Footer from './components/footer/footer'
 import Contact from './components/contact/contact'
+import Experience from './components/experience/experience'
 
 
 
 
 
 const App = () => {
+
   return (
     <div>
       <>
         <Header />
         <Nav />
         <About />
+        <Experience />
         <Contact />
         <Footer />
       </>
     </div>
   )
 } 
-
-
-
-// import './App.css';
-// import { Routes, Route } from 'react-router-dom'
-// import Layout from './components/Layout';
-// function App() {
-//   return (
-//     <>
-//     <Routes>
-//       <Route path="/" element={<Layout/>} />
-//       </Routes>
-//       </>
-//   )
-// }
-
 
 export default App;
