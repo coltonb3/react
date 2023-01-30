@@ -1,0 +1,14 @@
+footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 4em;
+
+}
+
+a { 
+    display: flex;
+    flex-direction: space-between;
+}
+
