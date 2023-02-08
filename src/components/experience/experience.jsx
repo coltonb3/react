@@ -20,7 +20,11 @@ const experience = () => {
   <div class="projects-container">
 <article>
      <ul>
-      <li><a href="#" target="_blank" rel="noopener noreferrer"></a>test</li>
+      <li><a href="https://glowing-custard-78a364.netlify.app/" target="_blank" rel="noopener noreferrer">Betr Betr</a></li>
+      <li><a href='https://polite-souffle-7c2e9b.netlify.app/'> Recipe Book</a></li>
+      <li><a href='https://pacific-hollows-96763.herokuapp.com/'> DJANGO CRUD APP</a></li>
+      <li><a href='https://resonant-tulumba-513197.netlify.app/'>First Portfolio</a></li>
+
      </ul>
     
     </article>
