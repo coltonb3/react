@@ -18,10 +18,8 @@ const header = () => {
       <br/>
     <CTA />
       <HeaderSocials />
-      <div className='me'>
-        <p>
-          test
-        </p>
+      <div className='gif'>
+        <img src='https://golfdigest.sports.sndimg.com/content/dam/images/golfdigest/unsized/2019/06/06/5cf986ef1e242467c27d5daa_10second.gif' alt='pebblebeach'/>
       </div>
 
       {/* <a href="#contact" className='scroll__down'>Scroll Down</a> */}

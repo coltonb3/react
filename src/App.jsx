@@ -5,6 +5,8 @@ import About from './components/about/About'
 import Footer from './components/footer/footer'
 import Contact from './components/contact/contact'
 import Experience from './components/experience/experience'
+import "./index.css"
+
 
 
 
