@@ -17,11 +17,11 @@ const header = () => {
       <br/>
       <br/>
     <CTA />
-    <br/>
-    <br/>
       <HeaderSocials />
       <div className='me'>
-
+        <p>
+          test
+        </p>
       </div>
 
       {/* <a href="#contact" className='scroll__down'>Scroll Down</a> */}

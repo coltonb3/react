@@ -19,15 +19,12 @@ const experience = () => {
 
   <div class="projects-container">
 <article>
-      <small>project1</small>
-      <img src='../../assets/recipe.png' alt='recipe'/>
+     <ul>
+      <li><a href="#" target="_blank" rel="noopener noreferrer"></a>test</li>
+     </ul>
+    
     </article>
-<article>
-        <small>project2</small>
-    </article>
-<article>
-        <small>project3</small>
-    </article>  
+
 
 
   </div>
